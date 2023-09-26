@@ -1,1 +1,1 @@
-# python-challenge
+These files contain code that keeps track of a company's financial record that tells us it's profits/losses. The other file contains code that helps a small town's voting process by keeping track of the number of votes and tells us who won.
